@@ -1,2 +1,2 @@
-Changes:
-> Languages removed.
+
+Apk build with languages but language setting removed.
